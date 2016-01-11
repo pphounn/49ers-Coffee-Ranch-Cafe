@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+
+<Menu Name = "49ers Coffee Ranch">
+  <menu-items>
+    <menu-name>Cappuccino</menu-name>
+    <menu-price>2.99</menu-price>
+    <menu-taxable>0.0875</menu-taxable>
+  </menu-items>
+
+  <menu-items>
+    <menu-name>Espresso</menu-name>
+    <menu-price>2.59</menu-price>
+    <menu-taxable>0.0875</menu-taxable>
+  </menu-items>
+
+  <menu-items>
+    <menu-name>Iced Coffee</menu-name>
+    <menu-price>2.29</menu-price>
+    <menu-taxable>0.0875</menu-taxable>
+  </menu-items>
+
+  <menu-items>
+    <menu-name>House Coffee</menu-name>
+    <menu-price>1.99</menu-price>
+    <menu-taxable>0.0875</menu-taxable>
+  </menu-items>
+
+  <menu-items>
+    <menu-name>Bagel</menu-name>
+    <menu-price>1.99</menu-price>
+    <menu-taxable>0.0875</menu-taxable>
+  </menu-items>
+
+  <menu-items>
+    <menu-name>Muffin</menu-name>
+    <menu-price>1.59</menu-price>
+    <menu-taxable>0.0875</menu-taxable>
+  </menu-items>
+
+  <menu-items>
+    <menu-name>Banana</menu-name>
+    <menu-price>0.99</menu-price>
+    <menu-taxable>1</menu-taxable>
+  </menu-items>
+
+  <menu-items>
+    <menu-name>Orange</menu-name>
+    <menu-price>0.79</menu-price>
+    <menu-taxable>1</menu-taxable>
+  </menu-items>
+</Menu>

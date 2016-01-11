@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<orders> 
+  <order>
+    <customer> </customer>
+    <accountNum> </accountNum>
+    <dateTime> </dateTime>
+    <grandTotal> </grandTotal>
+    <itemName> </itemName>
+    <itemQty> </itemQty>
+  </order>
+</orders>
